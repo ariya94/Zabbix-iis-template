@@ -15,4 +15,4 @@ Also you can use this user parameter : UserParameter=AppPoolReq[\*],powershell.e
 
 then you must add this parameter to iis Item prototypes in Application pools discovery: AppPoolReq[{#APPPOOL}]
 
-I put The template in there if you want to use it.
+you can import The template in your zabbix server
